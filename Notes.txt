@@ -1,0 +1,31 @@
+->Delete git branch form local repositry
+
+	---> git branch --delete old-branch
+
+->Git change by commit id
+
+	---> git show <git commit id>
+
+->Git log
+
+	---> git log
+
+->To remove the file from staging area
+
+	--->git restore --staged file1
+ 
+->save the current changes in a dirty working directory away
+
+	---> git stash
+
+->To get the changes int git stash 
+ 
+	---> git stash pop
+
+##we can add two stash and pop just like stack
+
+-> To reapply the changes to your working copy and keep them in your stash 
+	-->git stash apply
+
+//to do 
+https://www.atlassian.com/git/tutorials/saving-changes/git-stash

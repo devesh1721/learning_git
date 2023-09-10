@@ -1,5 +1,0 @@
-Delete git branch form local repositry
-
- -> git branch --delete old-branch
-
-
